@@ -1,0 +1,65 @@
+{
+  "id": 1243377713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.37981,1.64167,7.37981,1.64167",
+    "geom:latitude":1.64167,
+    "geom:longitude":7.37981,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pau Cavalo",
+    "gn:country_code":"ST",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410935,
+    "gn:latitude":1.64167,
+    "gn:longitude":7.37981,
+    "gn:modification_date":"2018-01-23",
+    "gn:name":"Pau Cavalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632765,
+        85677303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410935
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"140ff2acc84513fdbd1664e8a2d52e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":1243377713,
+            "region_id":85677303
+        }
+    ],
+    "wof:id":1243377713,
+    "wof:lastmodified":1536904815,
+    "wof:name":"Pau Cavalo",
+    "wof:parent_id":85677303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.37981,
+    1.64167,
+    7.37981,
+    1.64167
+],
+  "geometry": {"coordinates":[7.37981,1.64167],"type":"Point"}
+}

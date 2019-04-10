@@ -1,0 +1,65 @@
+{
+  "id": 1243272793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.68333,0.33333,6.68333,0.33333",
+    "geom:latitude":0.33333,
+    "geom:longitude":6.68333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gratidao",
+    "gn:country_code":"ST",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411104,
+    "gn:latitude":0.33333,
+    "gn:longitude":6.68333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Gratid\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632765,
+        85677301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411104
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"1ada0f999fec9abc0c5d5618fdcc12c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":1243272793,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":1243272793,
+    "wof:lastmodified":1537053473,
+    "wof:name":"Gratidao",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.68333,
+    0.33333,
+    6.68333,
+    0.33333
+],
+  "geometry": {"coordinates":[6.68333,0.33333],"type":"Point"}
+}

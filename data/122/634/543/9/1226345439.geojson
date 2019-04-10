@@ -1,0 +1,65 @@
+{
+  "id": 1226345439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.61667,0.2,6.61667,0.2",
+    "geom:latitude":0.2,
+    "geom:longitude":6.61667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Guayaquil",
+    "gn:country_code":"ST",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411100,
+    "gn:latitude":0.2,
+    "gn:longitude":6.61667,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Guayaquil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632765,
+        85677301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411100
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"d443f6e7efb1680f5da13224ef80433f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":1226345439,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":1226345439,
+    "wof:lastmodified":1536790292,
+    "wof:name":"Guayaquil",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.61667,
+    0.2,
+    6.61667,
+    0.2
+],
+  "geometry": {"coordinates":[6.61667,0.2],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1326643143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.68333,0.18333,6.68333,0.18333",
+    "geom:latitude":0.18333,
+    "geom:longitude":6.68333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Colonia Acoreana",
+    "gn:country_code":"ST",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411180,
+    "gn:latitude":0.18333,
+    "gn:longitude":6.68333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Col\u00f3nia A\u00e7oreana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632765,
+        85677301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411180
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"7bebc9a95203ef4bb2c9723a16319766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":1326643143,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":1326643143,
+    "wof:lastmodified":1536823129,
+    "wof:name":"Colonia Acoreana",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.68333,
+    0.18333,
+    6.68333,
+    0.18333
+],
+  "geometry": {"coordinates":[6.68333,0.18333],"type":"Point"}
+}

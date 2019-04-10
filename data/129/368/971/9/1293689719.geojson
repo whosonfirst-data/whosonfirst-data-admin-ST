@@ -1,0 +1,70 @@
+{
+  "id": 1293689719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.56667,0.08333,6.56667,0.08333",
+    "geom:latitude":0.08333,
+    "geom:longitude":6.56667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Novo Brasil",
+    "gn:cc2":"ST",
+    "gn:country_code":"ST",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410964,
+    "gn:latitude":0.08333,
+    "gn:longitude":6.56667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Novo Brasil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Novo Brazil",
+        "Novo Brasil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632765,
+        85677301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410964
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"2f8dfb63fc5971140d56c3ab2ed9a43b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":1293689719,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":1293689719,
+    "wof:lastmodified":1537701423,
+    "wof:name":"Novo Brasil",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.56667,
+    0.08333,
+    6.56667,
+    0.08333
+],
+  "geometry": {"coordinates":[6.56667,0.08333],"type":"Point"}
+}

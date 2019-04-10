@@ -1,0 +1,65 @@
+{
+  "id": 1225853719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.7,0.23333,6.7,0.23333",
+    "geom:latitude":0.23333,
+    "geom:longitude":6.7,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Matocana",
+    "gn:country_code":"ST",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411019,
+    "gn:latitude":0.23333,
+    "gn:longitude":6.7,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Matocana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632765,
+        85677301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411019
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"dde593b0b37087fa88bd50697db3f6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":1225853719,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":1225853719,
+    "wof:lastmodified":1537001338,
+    "wof:name":"Matocana",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.7,
+    0.23333,
+    6.7,
+    0.23333
+],
+  "geometry": {"coordinates":[6.7,0.23333],"type":"Point"}
+}

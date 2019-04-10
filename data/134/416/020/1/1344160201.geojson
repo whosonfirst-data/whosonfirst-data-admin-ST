@@ -1,0 +1,65 @@
+{
+  "id": 1344160201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.56667,0.05,6.56667,0.05",
+    "geom:latitude":0.05,
+    "geom:longitude":6.56667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vila Conceicao",
+    "gn:country_code":"ST",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410726,
+    "gn:latitude":0.05,
+    "gn:longitude":6.56667,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Vila Concei\u00e7\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632765,
+        85677301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410726
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"d82fbfea470841af2985adbe64d838b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":1344160201,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":1344160201,
+    "wof:lastmodified":1536731914,
+    "wof:name":"Vila Conceicao",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.56667,
+    0.05,
+    6.56667,
+    0.05
+],
+  "geometry": {"coordinates":[6.56667,0.05],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1293003885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.68333,0.3,6.68333,0.3",
+    "geom:latitude":0.3,
+    "geom:longitude":6.68333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Trindade",
+    "gn:country_code":"ST",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410737,
+    "gn:latitude":0.3,
+    "gn:longitude":6.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Trindade",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632765,
+        85677301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410737,
+        "wk:page":"Trindade_%28S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe%29"
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"2eee64f8bcef0eb4634151128f35a614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":1293003885,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":1293003885,
+    "wof:lastmodified":1537573767,
+    "wof:name":"Trindade",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.68333,
+    0.3,
+    6.68333,
+    0.3
+],
+  "geometry": {"coordinates":[6.68333,0.3],"type":"Point"}
+}

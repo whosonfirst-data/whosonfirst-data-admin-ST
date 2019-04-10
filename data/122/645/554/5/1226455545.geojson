@@ -1,0 +1,69 @@
+{
+  "id": 1226455545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.55,0.06667,6.55,0.06667",
+    "geom:latitude":0.06667,
+    "geom:longitude":6.55,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"N'zumbi",
+    "gn:country_code":"ST",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410960,
+    "gn:latitude":0.06667,
+    "gn:longitude":6.55,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"N\u2019zumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u2019zumbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632765,
+        85677301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410960,
+        "wk:page":"N%27zumbi"
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"586bc5f2d1bd173af2b9e10424c13e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":1226455545,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":1226455545,
+    "wof:lastmodified":1537701423,
+    "wof:name":"N'zumbi",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.55,
+    0.06667,
+    6.55,
+    0.06667
+],
+  "geometry": {"coordinates":[6.55,0.06667],"type":"Point"}
+}

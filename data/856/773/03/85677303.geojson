@@ -1,0 +1,261 @@
+{
+  "id": 85677303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0127,
+    "geom:area_square_m":156977665.039266,
+    "geom:bbox":"7.32935631584,1.53119537986,7.4627384773,1.69977448091",
+    "geom:latitude":1.620246,
+    "geom:longitude":7.395916,
+    "gn:population":5000,
+    "iso:country":"ST",
+    "label:eng_x_preferred_longname":[
+        "Pr\u00edncipe Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":1.607185,
+    "lbl:longitude":7.395916,
+    "mps:latitude":1.607185,
+    "mps:longitude":7.395916,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Provincia de Pr\u00edncipe"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Regi\u00f3 Aut\u00f2noma de Pr\u00edncipe"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03c1\u03af\u03bd\u03c3\u03b9\u03c0\u03b5"
+    ],
+    "name:eng_x_preferred":[
+        "Pr\u00edncipe"
+    ],
+    "name:eus_x_preferred":[
+        "Pr\u00edncipe uhartea"
+    ],
+    "name:fin_x_preferred":[
+        "Pr\u00edncipe"
+    ],
+    "name:fra_x_preferred":[
+        "Province de Principe"
+    ],
+    "name:fra_x_variant":[
+        "Principe"
+    ],
+    "name:fre_x_preferred":[
+        "province de Principe"
+    ],
+    "name:glg_x_preferred":[
+        "Illa do Pr\u00edncipe"
+    ],
+    "name:ita_x_preferred":[
+        "Provincia di Pr\u00edncipe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ea\u30f3\u30b7\u30da\u5dde"
+    ],
+    "name:jpn_x_variant":[
+        "\u30d7\u30ea\u30f3\u30b7\u30da\u5cf6"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub9b0\uc2dc\ud398 \uc12c"
+    ],
+    "name:lit_x_preferred":[
+        "Prinsip\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0435"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Principe"
+    ],
+    "name:nob_x_preferred":[
+        "Pr\u00edncipe"
+    ],
+    "name:pol_x_preferred":[
+        "Wyspa Ksi\u0105\u017c\u0119ca"
+    ],
+    "name:por_x_preferred":[
+        "Principe"
+    ],
+    "name:por_x_variant":[
+        "Ilha do Pr\u00edncipe",
+        "Pr\u00edncipe"
+    ],
+    "name:ron_x_preferred":[
+        "Provincia Pr\u00edncipe"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Isla de Pr\u00edncipe"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0438\u043d\u0446\u0438\u043f\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0438\u043d\u0441\u0456\u043f\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0631\u0646\u0633\u067e\u06d2 \u0635\u0648\u0628\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u6797\u897f\u6bd4\u5c9b"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"STP",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"STP-4862",
+    "ne:adm1_code":"STP-4862",
+    "ne:admin":"Sao Tome and Principe",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"ST.PR",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"4862",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"TP01",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Sao Tome and Principe",
+    "ne:gn_a1_code":"ST.01",
+    "ne:gn_id":"2410878",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Principe",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"TP00",
+    "ne:gns_id":"-1312697",
+    "ne:gns_lang":"por",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Principe",
+    "ne:gns_region":"",
+    "ne:gu_a3":"STP",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"ST-P",
+    "ne:iso_a2":"ST",
+    "ne:labelrank":"20",
+    "ne:latitude":"1.60769000000",
+    "ne:longitude":"7.39374000000",
+    "ne:mapcolor13":7,
+    "ne:mapcolor9":1,
+    "ne:name":"Pr\u00edncipe",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"STP",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Pr%C3%ADncipe_Province",
+    "ne:woe_id":2347233,
+    "ne:woe_label":"Principe, ST, Sao Tome and Principe",
+    "ne:woe_name":"Principe",
+    "qs:a0":"Sao Tome and Principe",
+    "qs:a0_lc":"ST",
+    "qs:a1":"Pr\u00edncipe",
+    "qs:a1_lc":"STP-4862",
+    "qs:adm0":"Sao Tome and Principe",
+    "qs:adm0_a3":"STP",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2012-05-13",
+    "statoids:area_km":"142",
+    "statoids:area_mi":"55",
+    "statoids:as_of_date":"2012-05-13",
+    "statoids:capital":"Santo Ant\u00f3nio",
+    "statoids:country":"ST",
+    "statoids:gec":"TP01",
+    "statoids:hasc":"ST.PR",
+    "statoids:iso":"P",
+    "statoids:name":"Pr\u00edncipe",
+    "statoids:population":"7542",
+    "statoids:timezone":"+0",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"ST-P",
+    "wof:belongsto":[
+        102191573,
+        85632765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"TP01",
+        "gn:id":2410878,
+        "gp:id":2347233,
+        "hasc:id":"ST.PR",
+        "iso:id":"ST-P",
+        "qs:id":1097076,
+        "unlc:id":"ST-P",
+        "wd:id":"Q2366966",
+        "wk:page":"Pr\u00edncipe Province"
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"980e25f61ba2f630caf9480abde666bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "region_id":85677303
+        }
+    ],
+    "wof:id":85677303,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lang_x_official":[
+        "por"
+    ],
+    "wof:lang_x_spoken":[
+        "por"
+    ],
+    "wof:lastmodified":1553550500,
+    "wof:name":"Pr\u00edncipe",
+    "wof:parent_id":85632765,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":7542,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:shortcode":"PR",
+    "wof:subdivision":"ST-P",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.32935631584132,
+    1.53119537986294,
+    7.46273847729896,
+    1.69977448090759
+],
+  "geometry": {"coordinates":[[[7.46273847729896,1.67454661703277],[7.45736738429741,1.66998932504737],[7.44613691498671,1.6654727228879],[7.43482506602402,1.65888092701323],[7.42872154985969,1.64785390863102],[7.44353274813784,1.6454531927107],[7.45671634168588,1.63833242460174],[7.46176191518032,1.63080475553511],[7.45264733210871,1.62734609604553],[7.43824303478829,1.62392812728132],[7.43441816506629,1.61522044516744],[7.43555748828749,1.59259674724211],[7.4305119147931,1.57273997636884],[7.42554772184991,1.56273020993132],[7.41822350371177,1.55849844015091],[7.40577233242726,1.55646393446307],[7.40211022200918,1.55072663032979],[7.40251712296691,1.54205963714259],[7.40137779974572,1.53119537986294],[7.39877363379622,1.53497955885962],[7.39568118633775,1.54238515844833],[7.3940535825069,1.54539622625487],[7.3873804051816,1.54246653899963],[7.38103274826278,1.53799062756548],[7.37224368649697,1.55414459819468],[7.35840905033746,1.55890534110864],[7.34376061316181,1.55988190322728],[7.3325301438511,1.56533437767945],[7.32935631584132,1.59625885586155],[7.33008873810485,1.61465078310721],[7.3393660822789,1.61310455892829],[7.35596764369183,1.62002187700807],[7.36402428499281,1.62938060083411],[7.36646569073906,1.641791083192],[7.36654707129037,1.65810781492377],[7.37183678553924,1.67719147370758],[7.38526451894245,1.69232819239221],[7.40300540537521,1.69977448090759],[7.42123457151831,1.69570547133048],[7.44874108183552,1.6931826841336],[7.45972741039174,1.68829987264104],[7.46273847729896,1.67454661703277]]],"type":"Polygon"}
+}

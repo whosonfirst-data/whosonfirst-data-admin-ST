@@ -1,0 +1,65 @@
+{
+  "id": 1343866989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.67889,0.29463,6.67889,0.29463",
+    "geom:latitude":0.29463,
+    "geom:longitude":6.67889,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Uba Flor",
+    "gn:country_code":"ST",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11204554,
+    "gn:latitude":0.29463,
+    "gn:longitude":6.67889,
+    "gn:modification_date":"2016-07-20",
+    "gn:name":"Uba Flor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632765,
+        85677301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11204554
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"bc640aecbb2540e1fba5686f5695249f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":1343866989,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":1343866989,
+    "wof:lastmodified":1536657222,
+    "wof:name":"Uba Flor",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.67889,
+    0.29463,
+    6.67889,
+    0.29463
+],
+  "geometry": {"coordinates":[6.67889,0.29463],"type":"Point"}
+}

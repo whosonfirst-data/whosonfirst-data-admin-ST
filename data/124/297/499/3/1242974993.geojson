@@ -1,0 +1,61 @@
+{
+  "id": 1242974993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.44686,1.61763,7.44686,1.61763",
+    "geom:latitude":1.61763,
+    "geom:longitude":7.44686,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Atalaia",
+    "gn:country_code":"ST",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411279,
+    "gn:latitude":1.61763,
+    "gn:longitude":7.44686,
+    "gn:modification_date":"2018-01-23",
+    "gn:name":"Atalaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411279
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"48677482e10cda21332f77d2c1222695",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242974993,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242974993,
+    "wof:lastmodified":1536987398,
+    "wof:name":"Atalaia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.44686,
+    1.61763,
+    7.44686,
+    1.61763
+],
+  "geometry": {"coordinates":[7.44686,1.61763],"type":"Point"}
+}

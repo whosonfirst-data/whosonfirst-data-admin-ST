@@ -1,0 +1,65 @@
+{
+  "id": 1242988635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.41247,1.64691,7.41247,1.64691",
+    "geom:latitude":1.64691,
+    "geom:longitude":7.41247,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Oque Gaspar",
+    "gn:country_code":"ST",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410952,
+    "gn:latitude":1.64691,
+    "gn:longitude":7.41247,
+    "gn:modification_date":"2018-01-23",
+    "gn:name":"Oqu\u00ea Gaspar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632765,
+        85677303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410952
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"c67b926b7042135d232534c990d7a0af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":1242988635,
+            "region_id":85677303
+        }
+    ],
+    "wof:id":1242988635,
+    "wof:lastmodified":1536968308,
+    "wof:name":"Oque Gaspar",
+    "wof:parent_id":85677303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.41247,
+    1.64691,
+    7.41247,
+    1.64691
+],
+  "geometry": {"coordinates":[7.41247,1.64691],"type":"Point"}
+}

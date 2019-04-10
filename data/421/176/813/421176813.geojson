@@ -1,0 +1,459 @@
+{
+  "id": 421176813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001255,
+    "geom:area_square_m":15514978.908891,
+    "geom:bbox":"6.69235935593,0.310635048889,6.7436217728,0.384834442119",
+    "geom:latitude":0.34983,
+    "geom:longitude":6.719551,
+    "iso:country":"ST",
+    "lbl:latitude":0.33654,
+    "lbl:longitude":6.72732,
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:alb_x_preferred":[
+        "Sao Tome"
+    ],
+    "name:amh_x_preferred":[
+        "\u1233\u1295 \u1276\u121c"
+    ],
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0648 \u062a\u0648\u0645\u064a"
+    ],
+    "name:arm_x_preferred":[
+        "\u054d\u0561\u0576 \u054f\u0578\u0574\u0565"
+    ],
+    "name:ast_x_preferred":[
+        "Santu Tom\u00e9"
+    ],
+    "name:aze_x_preferred":[
+        "San-Tome"
+    ],
+    "name:bak_x_preferred":[
+        "\u0421\u0430\u043d-\u0422\u043e\u043c\u0435"
+    ],
+    "name:baq_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u043d-\u0422\u0430\u043c\u044d"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0430\u043d-\u0422\u0430\u043c\u044d"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u0993 \u09a4\u09ae\u09c7"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f66\u0f60\u0f7c\u0f0b\u0f4a\u0f7c\u0f0b\u0f58\u0f7a\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09b8\u09be\u0993 \u099f\u09cb\u09ae\u09c7"
+    ],
+    "name:bre_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043e \u0422\u043e\u043c\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:cdo_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u043d-\u0422\u043e\u043c\u0435"
+    ],
+    "name:chi_x_preferred":[
+        "\u5723\u591a\u7f8e"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u0627\u0648 \u062a\u06c6\u0645\u06ce"
+    ],
+    "name:cze_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:dan_x_preferred":[
+        "S\u00f6o Tom\u00e9"
+    ],
+    "name:dan_x_variant":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:deu_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:dut_x_preferred":[
+        "Sao Tom\u00e9"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bf \u03a4\u03bf\u03bc\u03ad"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:epo_x_preferred":[
+        "Sao-Tomeo"
+    ],
+    "name:est_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0626\u0648\u062a\u0648\u0645\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:fry_x_preferred":[
+        "Sao Tomee"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10e2\u10dd\u10db\u10d4"
+    ],
+    "name:ger_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:gla_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:gle_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:glg_x_preferred":[
+        "San Tom\u00e9"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03ac\u03bf \u03a4\u03bf\u03bc\u03ad"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abe\u0a93 \u0a9f\u0ac9\u0aae"
+    ],
+    "name:hak_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:hat_x_preferred":[
+        "Sao Tome"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05d5 \u05d8\u05d5\u05de\u05d4"
+    ],
+    "name:hif_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094b \u091f\u094b\u092e\u0947"
+    ],
+    "name:hrv_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:hun_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576 \u054f\u0578\u0574\u0565"
+    ],
+    "name:ido_x_preferred":[
+        "San-Tome"
+    ],
+    "name:ind_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30c8\u30e1"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cbe\u0cb5\u0cca \u0c9f\u0ccb\u0cae\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10e2\u10dd\u10db\u10d4"
+    ],
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u043d-\u0422\u043e\u043c\u0435"
+    ],
+    "name:kon_x_preferred":[
+        "Sao Tome"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0c1\ud22c\uba54"
+    ],
+    "name:kur_x_preferred":[
+        "Sao Tome"
+    ],
+    "name:lat_x_preferred":[
+        "Urbs Sancti Thomae"
+    ],
+    "name:lav_x_preferred":[
+        "Santome"
+    ],
+    "name:lit_x_preferred":[
+        "San Tom\u0117"
+    ],
+    "name:lmo_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:ltz_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0430\u043e \u0422\u043e\u043c\u0435"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d3e\u0d35\u0d4b \u0d1f\u0d4b\u0d02"
+    ],
+    "name:mao_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093e\u0913 \u091f\u094b\u092e\u0947"
+    ],
+    "name:may_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043e \u0422\u043e\u043c\u0435"
+    ],
+    "name:mlg_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0421\u0430\u043d-\u0422\u043e\u043c\u0435"
+    ],
+    "name:nan_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:nld_x_preferred":[
+        "Sao Tom\u00e9"
+    ],
+    "name:nno_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:nob_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:nor_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:nov_x_preferred":[
+        "Sao Tome"
+    ],
+    "name:nya_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:oci_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a38\u0a3e\u0a13 \u0a24\u0a4b\u0a2e\u0a47"
+    ],
+    "name:pap_x_preferred":[
+        "Santo Tom\u00e9"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0627\u0626\u0648\u062a\u0648\u0645\u0647"
+    ],
+    "name:pms_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0627\u0648 \u0679\u0648\u0645\u06d2"
+    ],
+    "name:pol_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:rum_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0422\u043e\u043c\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dcf\u0d95 \u0da7\u0ddc\u0db8\u0dda"
+    ],
+    "name:slk_x_preferred":[
+        "Sv\u00e4t\u00fd Tom\u00e1\u0161"
+    ],
+    "name:slo_x_preferred":[
+        "Sv\u00e4t\u00fd Tom\u00e1\u0161"
+    ],
+    "name:slv_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:sna_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:som_x_preferred":[
+        "Sao Tome"
+    ],
+    "name:spa_x_preferred":[
+        "Santo Tom\u00e9"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043e \u0422\u043e\u043c\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Sao Tome"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0bb5\u0bcb \u0ba4\u0bca\u0bae\u0bc7"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3e\u0c35\u0c4b \u0c24\u0c4b\u0c2e\u0c46"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0430\u043d-\u0422\u043e\u043c\u0435"
+    ],
+    "name:tgl_x_preferred":[
+        "San Tomas"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e32\u0e15\u0e39\u0e40\u0e21"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f66\u0f60\u0f7c\u0f0b\u0f4a\u0f7c\u0f0b\u0f58\u0f7a\u0f0d"
+    ],
+    "name:tur_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:udm_x_preferred":[
+        "\u0421\u0430\u043d-\u0422\u043e\u043c\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0422\u043e\u043c\u0435"
+    ],
+    "name:unk_x_variant":[
+        "S\u00e0o Thom\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0624 \u0679\u0648\u0645\u06d2"
+    ],
+    "name:uzb_x_preferred":[
+        "San-Tome"
+    ],
+    "name:vec_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:vep_x_preferred":[
+        "San Tome"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:war_x_preferred":[
+        "Sao Tome"
+    ],
+    "name:wel_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10e2\u10dd\u10db\u10d4"
+    ],
+    "name:yor_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:yue_x_preferred":[
+        "\u8056\u591a\u7f8e"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u591a\u7f8e"
+    ],
+    "qs:gn_country":"ST",
+    "qs:gn_fcode":"PPLC",
+    "qs:gn_id":2410763,
+    "qs:gn_pop":53300,
+    "qs:name":"S\u00e3o Tom\u00e9",
+    "qs:name_adm0":"S\u00e3o Tom\u00e9 e Pr\u00edncipe",
+    "qs:name_adm1":"Sao Tome",
+    "qs:photos":1308,
+    "qs:photos_1k":265,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1308,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":1083583,
+    "qs:woe_adm0":23424966,
+    "qs:woe_id":1441680,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:population":"quattroshapes",
+    "wd:latitude":0.333333,
+    "wd:longitude":6.733333,
+    "wd:wordcount":739,
+    "wof:belongsto":[
+        102191573,
+        85632765,
+        85677301
+    ],
+    "wof:breaches":[],
+    "wof:capital_of":85632765,
+    "wof:concordances":{
+        "gn:id":2410763,
+        "gp:id":1441680,
+        "loc:id":"n84231407",
+        "qs:id":1083583,
+        "wd:id":"Q3932",
+        "wk:page":"S\u00e3o Tom\u00e9"
+    },
+    "wof:country":"ST",
+    "wof:created":1459009120,
+    "wof:geomhash":"7a7654322ad00e1507d7f3fa23b96fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":421176813,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":421176813,
+    "wof:lastmodified":1552519482,
+    "wof:name":"Sao Tome",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:population":53300,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.692359355933213,
+    0.310635048889245,
+    6.743621772800005,
+    0.384834442118557
+],
+  "geometry": {"coordinates":[[[6.70245390651968,0.3838484076262],[6.70319344902771,0.38483444211856],[6.70689116156786,0.38360189898532],[6.70689116156786,0.38187633830071],[6.71305401580144,0.38360189898532],[6.71551915749487,0.38089030346816],[6.71970989837371,0.38089030346816],[6.71970989837371,0.37817870709787],[6.72217504006714,0.37669965417485],[6.72217504006714,0.37472758322049],[6.71946338420437,0.37497409211412],[6.71773778501896,0.37472758322049],[6.71699824251093,0.37250900286633],[6.71625870000291,0.37078343998233],[6.71404007247882,0.3705369309714],[6.71305401580144,0.36955089485919],[6.71305401580144,0.36634627674007],[6.71428658664816,0.36338816668962],[6.71625870000291,0.36043005567052],[6.71872384169634,0.35969052776533],[6.71946338420437,0.35969052776533],[6.72069595505108,0.36116958351568],[6.72316109674452,0.36116958351568],[6.72439366759123,0.36043005567052],[6.7253797242686,0.35845798112356],[6.72587275260729,0.35697892493452],[6.72513321009926,0.35500684964592],[6.72340761091386,0.35426732130414],[6.72291458257517,0.35180222640598],[6.72291458257517,0.34909062126603],[6.72390063925254,0.34563948632149],[6.72562623843795,0.34342089890844],[6.72784486596204,0.34144882077557],[6.73006349348613,0.34095580117905],[6.73228212101021,0.34070929137134],[6.73351469185693,0.34144882077557],[6.73474726270365,0.34292787941328],[6.73647286188905,0.34539297663447],[6.73696589022774,0.34835109245554],[6.73967754609051,0.34613250567635],[6.74091011693723,0.34144882077557],[6.74066360276789,0.33849070281853],[6.74041708859854,0.33725815340301],[6.73992406025986,0.33577909389843],[6.7401705744292,0.3345465441403],[6.74140314527591,0.3335605042223],[6.74214268778395,0.3335605042223],[6.74214268778395,0.32665822204648],[6.74140314527591,0.32320707917457],[6.74140314527591,0.31950942479656],[6.74238920195329,0.31778385229715],[6.74362177280001,0.31630478992532],[6.73745891856642,0.31457921689184],[6.73597983355036,0.31457921689184],[6.73351469185693,0.31260713307572],[6.72957046514744,0.31063504888924],[6.7293239509781,0.31236062257261],[6.73006349348613,0.31507223778774],[6.72858440847007,0.31827687304076],[6.72883092263941,0.32123499700619],[6.72735183762335,0.32468614054971],[6.72044944088174,0.32665822204648],[6.7145331008175,0.34884411166899],[6.7145331008175,0.34884411166899],[6.70809666162491,0.35396694528408],[6.70343861259207,0.35894906314257],[6.70107284632235,0.35823115387104],[6.69235935593321,0.36610660664619],[6.69915920773427,0.37701186158283],[6.69907998659544,0.38099334626107],[6.70245390651968,0.3838484076262]]],"type":"Polygon"}
+}

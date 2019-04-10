@@ -1,0 +1,61 @@
+{
+  "id": 1209327275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.73333,0.31667,6.73333,0.31667",
+    "geom:latitude":0.31667,
+    "geom:longitude":6.73333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bombon",
+    "gn:country_code":"ST",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411241,
+    "gn:latitude":0.31667,
+    "gn:longitude":6.73333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Bombon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411241
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"7144318dea92c6bd6a9469dc3d930886",
+    "wof:hierarchy":[
+        {
+            "country_id":85632765,
+            "locality_id":1209327275
+        }
+    ],
+    "wof:id":1209327275,
+    "wof:lastmodified":1536290491,
+    "wof:name":"Bombon",
+    "wof:parent_id":85632765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.7333300000000005,
+    0.31667,
+    6.7333300000000005,
+    0.31667
+],
+  "geometry": {"coordinates":[6.73333,0.31667],"type":"Point"}
+}

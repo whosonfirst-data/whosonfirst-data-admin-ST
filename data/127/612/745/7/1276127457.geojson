@@ -1,0 +1,61 @@
+{
+  "id": 1276127457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.6,0.4,6.6,0.4",
+    "geom:latitude":0.4,
+    "geom:longitude":6.6,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Planca Primeira",
+    "gn:country_code":"ST",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410909,
+    "gn:latitude":0.4,
+    "gn:longitude":6.6,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Planca Primeira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410909
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"1f7472c8264816d1cf716923fec769bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276127457,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276127457,
+    "wof:lastmodified":1537052169,
+    "wof:name":"Planca Primeira",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.6,
+    0.4,
+    6.6,
+    0.4
+],
+  "geometry": {"coordinates":[6.6,0.4],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193140271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.63333,0.26667,6.63333,0.26667",
+    "geom:latitude":0.26667,
+    "geom:longitude":6.63333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Macambrara",
+    "gn:cc2":"ST",
+    "gn:country_code":"ST",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411043,
+    "gn:latitude":0.26667,
+    "gn:longitude":6.63333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Macambrar\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makambrar\u00e1",
+        "Macambrar\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632765,
+        85677301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411043
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"946687afd68e864eea5f1c1063d04065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":1193140271,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":1193140271,
+    "wof:lastmodified":1537701424,
+    "wof:name":"Macambrara",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.63333,
+    0.26667,
+    6.63333,
+    0.26667
+],
+  "geometry": {"coordinates":[6.63333,0.26667],"type":"Point"}
+}

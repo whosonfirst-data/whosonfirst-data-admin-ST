@@ -1,0 +1,66 @@
+{
+  "id": 1209115731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.37685,1.67316,7.37685,1.67316",
+    "geom:latitude":1.67316,
+    "geom:longitude":7.37685,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sao Jeronimo",
+    "gn:cc2":"ST",
+    "gn:country_code":"ST",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410794,
+    "gn:latitude":1.67316,
+    "gn:longitude":7.37685,
+    "gn:modification_date":"2018-01-23",
+    "gn:name":"S\u00e3o Jer\u00f3nimo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cincoenta",
+        "S\u00e3o Jer\u00f3nimo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410794
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"4da776b4c12420a3bec4a49c8a80dcce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632765,
+            "locality_id":1209115731
+        }
+    ],
+    "wof:id":1209115731,
+    "wof:lastmodified":1537701423,
+    "wof:name":"Sao Jeronimo",
+    "wof:parent_id":85632765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.37685,
+    1.67316,
+    7.37685,
+    1.67316
+],
+  "geometry": {"coordinates":[7.37685,1.67316],"type":"Point"}
+}

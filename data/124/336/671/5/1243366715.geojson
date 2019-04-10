@@ -1,0 +1,65 @@
+{
+  "id": 1243366715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.6781,0.29035,6.6781,0.29035",
+    "geom:latitude":0.29035,
+    "geom:longitude":6.6781,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cruzeiro",
+    "gn:country_code":"ST",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11203976,
+    "gn:latitude":0.29035,
+    "gn:longitude":6.6781,
+    "gn:modification_date":"2016-07-12",
+    "gn:name":"Cruzeiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632765,
+        85677301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11203976
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"519b1b119a0e119702cb3454aa779ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":1243366715,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":1243366715,
+    "wof:lastmodified":1536921172,
+    "wof:name":"Cruzeiro",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.6781,
+    0.29035,
+    6.6781,
+    0.29035
+],
+  "geometry": {"coordinates":[6.6781,0.29035],"type":"Point"}
+}

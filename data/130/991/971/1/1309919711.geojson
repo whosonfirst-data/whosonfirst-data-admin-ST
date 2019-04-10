@@ -1,0 +1,65 @@
+{
+  "id": 1309919711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.4271,1.67355,7.4271,1.67355",
+    "geom:latitude":1.67355,
+    "geom:longitude":7.4271,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Futuro",
+    "gn:country_code":"ST",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411124,
+    "gn:latitude":1.67355,
+    "gn:longitude":7.4271,
+    "gn:modification_date":"2018-01-23",
+    "gn:name":"Futuro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632765,
+        85677303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411124
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"350e893b985b9aa66e5fae7be1c60d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":1309919711,
+            "region_id":85677303
+        }
+    ],
+    "wof:id":1309919711,
+    "wof:lastmodified":1536767218,
+    "wof:name":"Futuro",
+    "wof:parent_id":85677303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.4271,
+    1.67355,
+    7.4271,
+    1.67355
+],
+  "geometry": {"coordinates":[7.4271,1.67355],"type":"Point"}
+}

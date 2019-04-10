@@ -1,0 +1,70 @@
+{
+  "id": 1226352023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.36579,1.60432,7.36579,1.60432",
+    "geom:latitude":1.60432,
+    "geom:longitude":7.36579,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Anselmo de Andrade",
+    "gn:cc2":"ST",
+    "gn:country_code":"ST",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411285,
+    "gn:latitude":1.60432,
+    "gn:longitude":7.36579,
+    "gn:modification_date":"2018-01-23",
+    "gn:name":"Anselmo de Andrade",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lapa",
+        "Anselmo de Andrade"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632765,
+        85677303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411285
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"50320f59bdee5303a3fbd5afcf643c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":1226352023,
+            "region_id":85677303
+        }
+    ],
+    "wof:id":1226352023,
+    "wof:lastmodified":1537701424,
+    "wof:name":"Anselmo de Andrade",
+    "wof:parent_id":85677303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.36579,
+    1.60432,
+    7.36579,
+    1.60432
+],
+  "geometry": {"coordinates":[7.36579,1.60432],"type":"Point"}
+}

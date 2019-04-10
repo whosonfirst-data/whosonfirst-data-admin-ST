@@ -1,0 +1,66 @@
+{
+  "id": 1360093895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.7,0.25,6.7,0.25",
+    "geom:latitude":0.25,
+    "geom:longitude":6.7,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Santa Clotilde",
+    "gn:country_code":"ST",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410835,
+    "gn:latitude":0.25,
+    "gn:longitude":6.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Santa Clotilde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632765,
+        85677301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410835,
+        "wk:page":"Santa_Clotilde"
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"22673edca0cbf9469e0a35f3e365346f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":1360093895,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":1360093895,
+    "wof:lastmodified":1537573767,
+    "wof:name":"Santa Clotilde",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.7,
+    0.25,
+    6.7,
+    0.25
+],
+  "geometry": {"coordinates":[6.7,0.25],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1327440197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.71667,0.21667,6.71667,0.21667",
+    "geom:latitude":0.21667,
+    "geom:longitude":6.71667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Montebelo",
+    "gn:country_code":"ST",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410999,
+    "gn:latitude":0.21667,
+    "gn:longitude":6.71667,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Montebelo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632765,
+        85677301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410999
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"ba8c26def2347b5cd0a8b3c1f89373ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":1327440197,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":1327440197,
+    "wof:lastmodified":1536669453,
+    "wof:name":"Montebelo",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.71667,
+    0.21667,
+    6.71667,
+    0.21667
+],
+  "geometry": {"coordinates":[6.71667,0.21667],"type":"Point"}
+}

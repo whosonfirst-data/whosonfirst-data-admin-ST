@@ -1,0 +1,65 @@
+{
+  "id": 1309724755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.55911,0.35696,6.55911,0.35696",
+    "geom:latitude":0.35696,
+    "geom:longitude":6.55911,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Praia da Rosema",
+    "gn:country_code":"ST",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410891,
+    "gn:latitude":0.35696,
+    "gn:longitude":6.55911,
+    "gn:modification_date":"2018-01-29",
+    "gn:name":"Praia da Rosema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632765,
+        85677301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410891
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"fa0f05679769dca606eafa601be8ec36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":1309724755,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":1309724755,
+    "wof:lastmodified":1537045943,
+    "wof:name":"Praia da Rosema",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.55911,
+    0.35696,
+    6.55911,
+    0.35696
+],
+  "geometry": {"coordinates":[6.55911,0.35696],"type":"Point"}
+}

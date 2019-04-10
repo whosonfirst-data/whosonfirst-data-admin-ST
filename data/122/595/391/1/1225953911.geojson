@@ -1,0 +1,65 @@
+{
+  "id": 1225953911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.40067,1.64335,7.40067,1.64335",
+    "geom:latitude":1.64335,
+    "geom:longitude":7.40067,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Oque Tres",
+    "gn:country_code":"ST",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410947,
+    "gn:latitude":1.64335,
+    "gn:longitude":7.40067,
+    "gn:modification_date":"2018-01-23",
+    "gn:name":"Oqu\u00ea Tr\u00eas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632765,
+        85677303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410947
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"b938439da11061fe467ef831b13a42de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":1225953911,
+            "region_id":85677303
+        }
+    ],
+    "wof:id":1225953911,
+    "wof:lastmodified":1536856202,
+    "wof:name":"Oque Tres",
+    "wof:parent_id":85677303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.40067,
+    1.64335,
+    7.40067,
+    1.64335
+],
+  "geometry": {"coordinates":[7.40067,1.64335],"type":"Point"}
+}

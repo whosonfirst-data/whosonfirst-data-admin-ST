@@ -1,0 +1,66 @@
+{
+  "id": 1344160033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.7,0.36667,6.7,0.36667",
+    "geom:latitude":0.36667,
+    "geom:longitude":6.7,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Santo Amaro",
+    "gn:country_code":"ST",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410809,
+    "gn:latitude":0.36667,
+    "gn:longitude":6.7,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Santo Amaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632765,
+        85677301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410809,
+        "wk:page":"Santo_Amaro%2C_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe"
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"5aba31a5ca5895670d8271c8ff24aa85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":1344160033,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":1344160033,
+    "wof:lastmodified":1537573767,
+    "wof:name":"Santo Amaro",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.7,
+    0.36667,
+    6.7,
+    0.36667
+],
+  "geometry": {"coordinates":[6.7,0.36667],"type":"Point"}
+}

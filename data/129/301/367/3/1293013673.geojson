@@ -1,0 +1,65 @@
+{
+  "id": 1293013673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.73886,0.33111,6.73886,0.33111",
+    "geom:latitude":0.33111,
+    "geom:longitude":6.73886,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vila Maria",
+    "gn:country_code":"ST",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11203985,
+    "gn:latitude":0.33111,
+    "gn:longitude":6.73886,
+    "gn:modification_date":"2016-07-12",
+    "gn:name":"Vila Maria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Sao_Tome",
+    "iso:country":"ST",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632765,
+        85677301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11203985
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"fbd6813d9316b342424b67a117faee5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":1293013673,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":1293013673,
+    "wof:lastmodified":1536972621,
+    "wof:name":"Vila Maria",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.73886,
+    0.33111,
+    6.73886,
+    0.33111
+],
+  "geometry": {"coordinates":[6.73886,0.33111],"type":"Point"}
+}
