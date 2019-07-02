@@ -50,9 +50,7 @@
         "Province de Principe"
     ],
     "name:fra_x_variant":[
-        "Principe"
-    ],
-    "name:fre_x_preferred":[
+        "Principe",
         "province de Principe"
     ],
     "name:glg_x_preferred":[
@@ -72,9 +70,6 @@
     ],
     "name:lit_x_preferred":[
         "Prinsip\u0117"
-    ],
-    "name:mac_x_preferred":[
-        "\u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0435"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0435"
@@ -236,7 +231,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550500,
+    "wof:lastmodified":1561844838,
     "wof:name":"Pr\u00edncipe",
     "wof:parent_id":85632765,
     "wof:placetype":"region",
