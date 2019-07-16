@@ -29,11 +29,17 @@
     "name:cat_x_preferred":[
         "Santo Ant\u00f3nio"
     ],
+    "name:ceb_x_preferred":[
+        "Santo Ant\u00f3nio"
+    ],
     "name:deu_x_preferred":[
         "Santo Ant\u00f3nio"
     ],
     "name:eng_x_preferred":[
         "Santo Ant\u00f3nio"
+    ],
+    "name:epo_x_preferred":[
+        "Sankta Antonio"
     ],
     "name:est_x_preferred":[
         "Santo Ant\u00f3nio"
@@ -47,6 +53,9 @@
     "name:fra_x_preferred":[
         "Santo Ant\u00f3nio"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d5 \u05d0\u05e0\u05d8\u05d5\u05e0\u05d9\u05d5"
+    ],
     "name:hrv_x_preferred":[
         "Santo Ant\u00f3nio"
     ],
@@ -55,6 +64,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30c8\u30fb\u30a2\u30f3\u30c8\u30cb\u30aa"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10e3-\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8\u10e3"
     ],
     "name:kor_x_preferred":[
         "\uc0b0\ud22c\uc548\ud1a0\ub2c8\uc6b0"
@@ -224,7 +236,7 @@
         }
     ],
     "wof:id":1141906219,
-    "wof:lastmodified":1561844838,
+    "wof:lastmodified":1563291495,
     "wof:name":"Santo Antonio",
     "wof:parent_id":85677303,
     "wof:placetype":"locality",

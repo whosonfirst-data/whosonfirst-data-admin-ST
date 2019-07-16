@@ -34,11 +34,17 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 Aut\u00f2noma de Pr\u00edncipe"
     ],
+    "name:ceb_x_preferred":[
+        "Pr\u00edncipe"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03c1\u03af\u03bd\u03c3\u03b9\u03c0\u03b5"
     ],
     "name:eng_x_preferred":[
         "Pr\u00edncipe"
+    ],
+    "name:eng_x_variant":[
+        "Pr\u00edncipe Province"
     ],
     "name:eus_x_preferred":[
         "Pr\u00edncipe uhartea"
@@ -64,6 +70,9 @@
     ],
     "name:jpn_x_variant":[
         "\u30d7\u30ea\u30f3\u30b7\u30da\u5cf6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e0\u10d8\u10dc\u10e1\u10d8\u10de\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ud504\ub9b0\uc2dc\ud398 \uc12c"
@@ -231,7 +240,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561844838,
+    "wof:lastmodified":1563291445,
     "wof:name":"Pr\u00edncipe",
     "wof:parent_id":85632765,
     "wof:placetype":"region",

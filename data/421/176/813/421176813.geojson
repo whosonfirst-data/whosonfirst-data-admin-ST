@@ -31,6 +31,9 @@
     "name:aze_x_preferred":[
         "San-Tome"
     ],
+    "name:aze_x_variant":[
+        "San Tome"
+    ],
     "name:bak_x_preferred":[
         "\u0421\u0430\u043d-\u0422\u043e\u043c\u0435"
     ],
@@ -64,6 +67,9 @@
     "name:cdo_x_preferred":[
         "S\u00e3o Tom\u00e9"
     ],
+    "name:ceb_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
     "name:ces_x_preferred":[
         "S\u00e3o Tom\u00e9"
     ],
@@ -72,6 +78,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u0633\u0627\u0648 \u062a\u06c6\u0645\u06ce"
+    ],
+    "name:ckb_x_variant":[
+        "\u0633\u0627\u0626\u06c6\u062a\u06c6\u0645\u06ce"
     ],
     "name:cym_x_preferred":[
         "S\u00e3o Tom\u00e9"
@@ -99,6 +108,9 @@
     ],
     "name:eus_x_preferred":[
         "S\u00e3o Tom\u00e9"
+    ],
+    "name:eus_x_variant":[
+        "Sao Tome"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0626\u0648\u062a\u0648\u0645\u0647"
@@ -151,6 +163,9 @@
     "name:ido_x_preferred":[
         "San-Tome"
     ],
+    "name:ido_x_variant":[
+        "Sao Tome"
+    ],
     "name:ind_x_preferred":[
         "S\u00e3o Tom\u00e9"
     ],
@@ -159,6 +174,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30c8\u30e1"
+    ],
+    "name:kab_x_preferred":[
+        "S\u00e3o Tom\u00e9"
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cbe\u0cb5\u0cca \u0c9f\u0ccb\u0cae\u0cc6"
@@ -183,6 +201,9 @@
     ],
     "name:lav_x_preferred":[
         "Santome"
+    ],
+    "name:lij_x_preferred":[
+        "San Tom\u00e8"
     ],
     "name:lit_x_preferred":[
         "San Tom\u0117"
@@ -255,6 +276,9 @@
     ],
     "name:por_x_preferred":[
         "S\u00e3o Tom\u00e9"
+    ],
+    "name:pus_x_preferred":[
+        "\u0633\u0627\u06cc\u0648\u062a\u0648\u0645\u0647"
     ],
     "name:ron_x_preferred":[
         "S\u00e3o Tom\u00e9"
@@ -340,6 +364,9 @@
     "name:war_x_preferred":[
         "Sao Tome"
     ],
+    "name:wuu_x_preferred":[
+        "\u5723\u591a\u7f8e"
+    ],
     "name:xmf_x_preferred":[
         "\u10e1\u10d0\u10dc-\u10e2\u10dd\u10db\u10d4"
     ],
@@ -405,7 +432,7 @@
         }
     ],
     "wof:id":421176813,
-    "wof:lastmodified":1561844838,
+    "wof:lastmodified":1563291479,
     "wof:name":"Sao Tome",
     "wof:parent_id":85677301,
     "wof:placetype":"locality",
