@@ -25,6 +25,24 @@
     "iso:country":"ST",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Santa Margarida"
+    ],
+    "name:cat_x_preferred":[
+        "Santa Margarida"
+    ],
+    "name:deu_x_preferred":[
+        "Santa Margarida"
+    ],
+    "name:glg_x_preferred":[
+        "Santa Margarida"
+    ],
+    "name:por_x_preferred":[
+        "Santa Margarida"
+    ],
+    "name:sco_x_preferred":[
+        "Santa Margarida"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +64,7 @@
         }
     ],
     "wof:id":1326833339,
-    "wof:lastmodified":1537045289,
+    "wof:lastmodified":1564151782,
     "wof:name":"Santa Margarida",
     "wof:parent_id":85677301,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"ST",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bombom"
+    ],
+    "name:fra_x_preferred":[
+        "Bombom"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30f3\u30dc\u30f3"
+    ],
+    "name:por_x_preferred":[
+        "Bombom"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1310120229,
-    "wof:lastmodified":1537573768,
+    "wof:lastmodified":1564151818,
     "wof:name":"Bombom",
     "wof:parent_id":85677301,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"ST",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bombaim"
+    ],
+    "name:fra_x_preferred":[
+        "Bombaim"
+    ],
+    "name:por_x_preferred":[
+        "Bombaim"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1242979405,
-    "wof:lastmodified":1536981130,
+    "wof:lastmodified":1564151831,
     "wof:name":"Bombaim",
     "wof:parent_id":85677301,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"ST",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Santa Cruz"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u06a9\u0631\u0648\u0632"
+    ],
+    "name:fra_x_preferred":[
+        "Santa Cruz"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Cruz"
+    ],
+    "name:por_x_preferred":[
+        "Santa Cruz"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u06a9\u0631\u0648\u0632"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":1276237243,
-    "wof:lastmodified":1537573767,
+    "wof:lastmodified":1564151799,
     "wof:name":"Santa Cruz",
     "wof:parent_id":85677301,
     "wof:placetype":"locality",

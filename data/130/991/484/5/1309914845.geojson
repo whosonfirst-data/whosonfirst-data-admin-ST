@@ -25,6 +25,9 @@
     "iso:country":"ST",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Dona Eug\u00e9nia"
+    ],
     "name:und_x_variant":[
         "Dona Eug\u00e9nia"
     ],
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1309914845,
-    "wof:lastmodified":1537701424,
+    "wof:lastmodified":1564151824,
     "wof:name":"Dona Eugenia",
     "wof:parent_id":85677301,
     "wof:placetype":"locality",

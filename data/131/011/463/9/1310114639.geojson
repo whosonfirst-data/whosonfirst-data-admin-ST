@@ -25,6 +25,12 @@
     "iso:country":"ST",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lemos"
+    ],
+    "name:por_x_preferred":[
+        "Lemos"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1310114639,
-    "wof:lastmodified":1537573767,
+    "wof:lastmodified":1564151821,
     "wof:name":"Lemos",
     "wof:parent_id":85677301,
     "wof:placetype":"locality",

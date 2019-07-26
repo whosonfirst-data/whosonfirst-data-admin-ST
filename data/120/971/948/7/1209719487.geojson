@@ -25,6 +25,12 @@
     "iso:country":"ST",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Praia Inhame"
+    ],
+    "name:por_x_preferred":[
+        "Praia Inhame"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1209719487,
-    "wof:lastmodified":1536387029,
+    "wof:lastmodified":1564151807,
     "wof:name":"Praia Inhame",
     "wof:parent_id":85677303,
     "wof:placetype":"locality",

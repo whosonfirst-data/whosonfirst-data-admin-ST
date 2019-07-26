@@ -25,6 +25,15 @@
     "iso:country":"ST",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ribeira Afonso"
+    ],
+    "name:fra_x_preferred":[
+        "Ribeira Afonso"
+    ],
+    "name:por_x_preferred":[
+        "Ribeira Afonso"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +56,7 @@
         }
     ],
     "wof:id":1242979841,
-    "wof:lastmodified":1537573767,
+    "wof:lastmodified":1564151831,
     "wof:name":"Ribeira Afonso",
     "wof:parent_id":85677301,
     "wof:placetype":"locality",
