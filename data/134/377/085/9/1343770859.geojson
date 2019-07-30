@@ -25,6 +25,54 @@
     "iso:country":"ST",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Neves"
+    ],
+    "name:deu_x_preferred":[
+        "Neves"
+    ],
+    "name:fin_x_preferred":[
+        "Neves"
+    ],
+    "name:fra_x_preferred":[
+        "Neves"
+    ],
+    "name:ita_x_preferred":[
+        "Neves"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30f4\u30a3\u30b9"
+    ],
+    "name:lit_x_preferred":[
+        "Neve\u0161as"
+    ],
+    "name:nld_x_preferred":[
+        "Neves"
+    ],
+    "name:nor_x_preferred":[
+        "Neves"
+    ],
+    "name:pol_x_preferred":[
+        "Neves"
+    ],
+    "name:por_x_preferred":[
+        "Neves"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0432\u0435\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Neves"
+    ],
+    "name:swe_x_preferred":[
+        "Neves"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0432\u0435\u0448"
+    ],
+    "name:zho_x_preferred":[
+        "\u5167\u7dad\u65af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +94,7 @@
         }
     ],
     "wof:id":1343770859,
-    "wof:lastmodified":1537573767,
+    "wof:lastmodified":1564151787,
     "wof:name":"Neves",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

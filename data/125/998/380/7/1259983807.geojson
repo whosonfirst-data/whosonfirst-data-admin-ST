@@ -25,6 +25,42 @@
     "iso:country":"ST",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Iola"
+    ],
+    "name:ceb_x_preferred":[
+        "Iola"
+    ],
+    "name:deu_x_preferred":[
+        "Iola"
+    ],
+    "name:ita_x_preferred":[
+        "Iola"
+    ],
+    "name:nld_x_preferred":[
+        "Iola"
+    ],
+    "name:pol_x_preferred":[
+        "Iola"
+    ],
+    "name:por_x_preferred":[
+        "Iola"
+    ],
+    "name:spa_x_preferred":[
+        "Iola"
+    ],
+    "name:srp_x_preferred":[
+        "Iola"
+    ],
+    "name:swe_x_preferred":[
+        "Iola"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u043e\u043b\u0430"
+    ],
+    "name:vol_x_preferred":[
+        "Iola"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1259983807,
-    "wof:lastmodified":1536633259,
+    "wof:lastmodified":1564151832,
     "wof:name":"Iola",
     "wof:parent_id":85677303,
     "wof:placetype":"locality",

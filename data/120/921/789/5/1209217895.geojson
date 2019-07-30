@@ -25,6 +25,27 @@
     "iso:country":"ST",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Urzelina"
+    ],
+    "name:deu_x_preferred":[
+        "Urzelina"
+    ],
+    "name:nld_x_preferred":[
+        "Urzelina"
+    ],
+    "name:por_x_preferred":[
+        "Urzelina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u0437\u0435\u043b\u0438\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Urzelina"
+    ],
+    "name:tur_x_preferred":[
+        "Urzelina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632765
@@ -34,7 +55,7 @@
         "gn:id":2410730
     },
     "wof:country":"ST",
-    "wof:geomhash":"1be2062df2c7acc22d140543570398b3",
+    "wof:geomhash":"7bebc9a95203ef4bb2c9723a16319766",
     "wof:hierarchy":[
         {
             "country_id":85632765,
@@ -42,7 +63,7 @@
         }
     ],
     "wof:id":1209217895,
-    "wof:lastmodified":1536294067,
+    "wof:lastmodified":1564151815,
     "wof:name":"Urzelina",
     "wof:parent_id":85632765,
     "wof:placetype":"locality",
@@ -52,9 +73,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.6833300000000015,
+    6.68333,
     0.18333,
-    6.6833300000000015,
+    6.68333,
     0.18333
 ],
   "geometry": {"coordinates":[6.68333,0.18333],"type":"Point"}

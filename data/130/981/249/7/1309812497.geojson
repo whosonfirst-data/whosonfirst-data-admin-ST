@@ -25,6 +25,15 @@
     "iso:country":"ST",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Monte Carmo"
+    ],
+    "name:deu_x_preferred":[
+        "Monte Carmo"
+    ],
+    "name:ita_x_preferred":[
+        "Monte Carmo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1309812497,
-    "wof:lastmodified":1536921970,
+    "wof:lastmodified":1564151826,
     "wof:name":"Monte Carmo",
     "wof:parent_id":85677301,
     "wof:placetype":"locality",

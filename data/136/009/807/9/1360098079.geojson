@@ -25,6 +25,15 @@
     "iso:country":"ST",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Caix\u00e3o Grande"
+    ],
+    "name:fra_x_preferred":[
+        "Caix\u00e3o Grande"
+    ],
+    "name:por_x_preferred":[
+        "Caix\u00e3o Grande"
+    ],
     "name:und_x_variant":[
         "Caix\u00e3o Grande"
     ],
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1360098079,
-    "wof:lastmodified":1537701424,
+    "wof:lastmodified":1564151822,
     "wof:name":"Caixao Grande",
     "wof:parent_id":85677301,
     "wof:placetype":"locality",
