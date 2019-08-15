@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PR"
+    ],
     "lbl:latitude":1.607185,
     "lbl:longitude":7.395916,
     "mps:latitude":1.607185,
@@ -231,16 +234,13 @@
         }
     ],
     "wof:id":85677303,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563291445,
+    "wof:lastmodified":1565736747,
     "wof:name":"Pr\u00edncipe",
     "wof:parent_id":85632765,
     "wof:placetype":"region",

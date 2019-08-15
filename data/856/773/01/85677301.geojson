@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ST"
+    ],
     "lbl:latitude":0.236754,
     "lbl:longitude":6.595509,
     "mps:latitude":0.236754,
@@ -245,16 +248,13 @@
         }
     ],
     "wof:id":85677301,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563291446,
+    "wof:lastmodified":1565736747,
     "wof:name":"S\u00e3o Tom\u00e9",
     "wof:parent_id":85632765,
     "wof:placetype":"region",
