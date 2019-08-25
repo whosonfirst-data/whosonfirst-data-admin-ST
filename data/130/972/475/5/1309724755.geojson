@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Sao_Tome",
     "iso:country":"ST",
+    "lbl:bbox":"6.53911,0.33696,6.57911,0.37696",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1309724755,
-    "wof:lastmodified":1537045943,
+    "wof:lastmodified":1566650648,
     "wof:name":"Praia da Rosema",
     "wof:parent_id":85677301,
     "wof:placetype":"locality",

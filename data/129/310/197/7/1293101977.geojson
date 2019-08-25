@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Sao_Tome",
     "iso:country":"ST",
+    "lbl:bbox":"6.61333,0.26333,6.65333,0.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Saudade"
     ],
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":1293101977,
-    "wof:lastmodified":1564151795,
+    "wof:lastmodified":1566650635,
     "wof:name":"Saudade",
     "wof:parent_id":85677301,
     "wof:placetype":"locality",
