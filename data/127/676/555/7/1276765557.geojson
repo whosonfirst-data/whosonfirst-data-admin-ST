@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Sao_Tome",
     "iso:country":"ST",
+    "lbl:bbox":"6.664,0.264,6.704,0.304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Folha Fede"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276765557,
-    "wof:lastmodified":1564151798,
+    "wof:lastmodified":1566650637,
     "wof:name":"Folha Fede",
     "wof:parent_id":85677301,
     "wof:placetype":"locality",

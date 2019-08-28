@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Sao_Tome",
     "iso:country":"ST",
+    "lbl:bbox":"6.69666,0.29666,6.73666,0.33666",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0622\u0644\u0645\u064a\u0631\u064a\u0645"
     ],
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":1225848261,
-    "wof:lastmodified":1564151845,
+    "wof:lastmodified":1566650660,
     "wof:name":"Almeirim",
     "wof:parent_id":85677301,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Sao_Tome",
     "iso:country":"ST",
+    "lbl:bbox":"6.70951,0.30373,6.74951,0.34373",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1242590387,
-    "wof:lastmodified":1537043354,
+    "wof:lastmodified":1566650650,
     "wof:name":"Agua Bobo",
     "wof:parent_id":85677301,
     "wof:placetype":"locality",

@@ -12,9 +12,12 @@
     "iso:country":"ST",
     "lbl:latitude":0.33654,
     "lbl:longitude":6.72732,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "S\u00e3o Tom\u00e9"
@@ -343,7 +346,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0422\u043e\u043c\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e0o Thom\u00e9"
     ],
     "name:urd_x_preferred":[
@@ -416,7 +419,7 @@
         "gn:id":2410763,
         "gp:id":1441680,
         "loc:id":"n84231407",
-        "qs:id":1083583,
+        "qs_pg:id":1083583,
         "wd:id":"Q3932",
         "wk:page":"S\u00e3o Tom\u00e9"
     },
@@ -432,7 +435,7 @@
         }
     ],
     "wof:id":421176813,
-    "wof:lastmodified":1563291479,
+    "wof:lastmodified":1566650649,
     "wof:name":"Sao Tome",
     "wof:parent_id":85677301,
     "wof:placetype":"locality",
