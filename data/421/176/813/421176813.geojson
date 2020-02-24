@@ -425,6 +425,9 @@
     },
     "wof:country":"ST",
     "wof:created":1459009120,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"430211b222da8c1fbfce26af851b02a3",
     "wof:hierarchy":[
         {
@@ -435,7 +438,7 @@
         }
     ],
     "wof:id":421176813,
-    "wof:lastmodified":1566650649,
+    "wof:lastmodified":1582319406,
     "wof:name":"Sao Tome",
     "wof:parent_id":85677301,
     "wof:placetype":"locality",
