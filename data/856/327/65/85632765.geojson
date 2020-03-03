@@ -1000,7 +1000,6 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -1070,7 +1069,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1582319406,
+    "wof:lastmodified":1583206129,
     "wof:name":"Sao Tome and Principe",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
