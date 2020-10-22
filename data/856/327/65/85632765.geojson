@@ -9,7 +9,6 @@
     "geom:bbox":"6.460417,-0.012944,7.474555,1.73125",
     "geom:latitude":0.411279,
     "geom:longitude":6.700564,
-    "gn:id":"",
     "gn:population":175808,
     "iso:country":"ST",
     "itu:country_code":[
@@ -1070,7 +1069,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1583797433,
+    "wof:lastmodified":1603246048,
     "wof:name":"Sao Tome and Principe",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
