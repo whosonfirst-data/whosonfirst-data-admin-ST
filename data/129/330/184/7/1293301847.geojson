@@ -32,6 +32,9 @@
     "name:arg_x_preferred":[
         "Guarda"
     ],
+    "name:ben_x_preferred":[
+        "\u0997\u09c1\u09df\u09be\u09b0\u09cd\u09a6\u09be"
+    ],
     "name:bre_x_preferred":[
         "Guarda"
     ],
@@ -44,6 +47,9 @@
     "name:deu_x_preferred":[
         "Guarda"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c5\u03ac\u03c1\u03bd\u03c4\u03b1"
+    ],
     "name:epo_x_preferred":[
         "Guarda"
     ],
@@ -51,6 +57,15 @@
         "Guarda"
     ],
     "name:glg_x_preferred":[
+        "Guarda"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d0\u05e8\u05d3\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u0941\u0906\u0930\u094d\u0921\u093e"
+    ],
+    "name:hun_x_preferred":[
         "Guarda"
     ],
     "name:ind_x_preferred":[
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":1293301847,
-    "wof:lastmodified":1566650632,
+    "wof:lastmodified":1636495915,
     "wof:name":"Guarda",
     "wof:parent_id":85677301,
     "wof:placetype":"locality",

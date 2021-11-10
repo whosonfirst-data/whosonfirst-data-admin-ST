@@ -42,6 +42,9 @@
     "name:fra_x_preferred":[
         "Santa Catarina"
     ],
+    "name:hun_x_preferred":[
+        "Santa Catarina"
+    ],
     "name:ita_x_preferred":[
         "Santa Catarina"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1209628101,
-    "wof:lastmodified":1566650639,
+    "wof:lastmodified":1636495915,
     "wof:name":"Santa Catarina",
     "wof:parent_id":85632765,
     "wof:placetype":"locality",
