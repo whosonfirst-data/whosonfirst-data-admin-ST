@@ -28,8 +28,20 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0648 \u062a\u0648\u0645\u064a"
     ],
+    "name:arg_x_preferred":[
+        "Sant Tom\u00e9"
+    ],
+    "name:ary_x_preferred":[
+        "\u0633\u0627\u0648 \u0637\u0648\u0645\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0648 \u062a\u0648\u0645\u0649"
+    ],
     "name:ast_x_preferred":[
         "Santu Tom\u00e9"
+    ],
+    "name:avk_x_preferred":[
+        "S\u00e3o Tom\u00e9"
     ],
     "name:aze_x_preferred":[
         "San-Tome"
@@ -40,6 +52,9 @@
     "name:bak_x_preferred":[
         "\u0421\u0430\u043d-\u0422\u043e\u043c\u0435"
     ],
+    "name:ban_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u043d-\u0422\u0430\u043c\u044d"
     ],
@@ -48,6 +63,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u0993 \u09a4\u09ae\u09c7"
+    ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u0981\u0989 \u09a4\u09c1\u09ae\u09c7"
     ],
     "name:bod_x_preferred":[
         "\u0f66\u0f60\u0f7c\u0f0b\u0f4a\u0f7c\u0f0b\u0f58\u0f7a\u0f0d"
@@ -106,6 +124,9 @@
     "name:epo_x_preferred":[
         "Sao-Tomeo"
     ],
+    "name:epo_x_variant":[
+        "Santomeo"
+    ],
     "name:est_x_preferred":[
         "S\u00e3o Tom\u00e9"
     ],
@@ -122,6 +143,9 @@
         "S\u00e3o Tom\u00e9"
     ],
     "name:fra_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:frr_x_preferred":[
         "S\u00e3o Tom\u00e9"
     ],
     "name:fry_x_preferred":[
@@ -144,6 +168,9 @@
     ],
     "name:hat_x_preferred":[
         "Sao Tome"
+    ],
+    "name:hau_x_preferred":[
+        "S\u00e3o Tom\u00e9"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d0\u05d5 \u05d8\u05d5\u05de\u05d4"
@@ -169,7 +196,13 @@
     "name:ido_x_variant":[
         "Sao Tome"
     ],
+    "name:ina_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
     "name:ind_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
+    "name:isl_x_preferred":[
         "S\u00e3o Tom\u00e9"
     ],
     "name:ita_x_preferred":[
@@ -223,6 +256,9 @@
     "name:mar_x_preferred":[
         "\u0938\u093e\u0913 \u091f\u094b\u092e\u0947"
     ],
+    "name:mdf_x_preferred":[
+        "\u0421\u0430\u043d-\u0422\u043e\u043c\u044d"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u043e \u0422\u043e\u043c\u0435"
     ],
@@ -237,6 +273,9 @@
     ],
     "name:msa_x_preferred":[
         "S\u00e3o Tom\u00e9"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0633\u0627\u0626\u0648\u062a\u0648\u0645\u0647"
     ],
     "name:nan_x_preferred":[
         "S\u00e3o Tom\u00e9"
@@ -261,6 +300,12 @@
     ],
     "name:oci_x_preferred":[
         "S\u00e3o Tom\u00e9"
+    ],
+    "name:olo_x_preferred":[
+        "San Tome"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0430\u043d-\u0422\u043e\u043c\u0435"
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a3e\u0a13 \u0a24\u0a4b\u0a2e\u0a47"
@@ -301,6 +346,9 @@
     "name:slv_x_preferred":[
         "S\u00e3o Tom\u00e9"
     ],
+    "name:smn_x_preferred":[
+        "S\u00e3o Tom\u00e9"
+    ],
     "name:sna_x_preferred":[
         "S\u00e3o Tom\u00e9"
     ],
@@ -312,6 +360,9 @@
     ],
     "name:sqi_x_preferred":[
         "Sao Tome"
+    ],
+    "name:srd_x_preferred":[
+        "S\u00e3o Tom\u00e9"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0430\u043e \u0422\u043e\u043c\u0435"
@@ -325,6 +376,9 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0bb5\u0bcb \u0ba4\u0bca\u0bae\u0bc7"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043d-\u0422\u043e\u043c\u0435"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c35\u0c4b \u0c24\u0c4b\u0c2e\u0c46"
     ],
@@ -336,6 +390,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e0b\u0e32\u0e15\u0e39\u0e40\u0e21"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e0b\u0e32\u0e15\u0e39\u0e41\u0e21"
     ],
     "name:tur_x_preferred":[
         "S\u00e3o Tom\u00e9"
@@ -440,7 +497,7 @@
         }
     ],
     "wof:id":421176813,
-    "wof:lastmodified":1617130307,
+    "wof:lastmodified":1690866754,
     "wof:name":"Sao Tome",
     "wof:parent_id":85677301,
     "wof:placetype":"locality",
