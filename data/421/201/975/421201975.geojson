@@ -23,6 +23,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u043d\u0442\u0443-\u0410\u043d\u0442\u043e\u043d\u044c\u044e"
     ],
+    "name:bel_x_variant":[
+        "\u0421\u0430\u043d\u0442\u0443-\u0410\u043d\u0442\u043e\u043d\u044c\u044e"
+    ],
     "name:bre_x_preferred":[
         "Santo Ant\u00f3nio"
     ],
@@ -56,10 +59,16 @@
     "name:fra_x_preferred":[
         "Santo Ant\u00f3nio"
     ],
+    "name:frr_x_preferred":[
+        "Santo Ant\u00f3nio"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05e0\u05d8\u05d5 \u05d0\u05e0\u05d8\u05d5\u05e0\u05d9\u05d5"
     ],
     "name:hrv_x_preferred":[
+        "Santo Ant\u00f3nio"
+    ],
+    "name:ind_x_preferred":[
         "Santo Ant\u00f3nio"
     ],
     "name:ita_x_preferred":[
@@ -119,6 +128,9 @@
     "name:tha_x_preferred":[
         "\u0e0b\u0e31\u0e07\u0e15\u0e39\u0e2d\u0e31\u0e07\u0e15\u0e2d\u0e19\u0e35\u0e2d\u0e39"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0443-\u0410\u043d\u0442\u043e\u043d\u0456\u043e"
+    ],
     "name:und_x_variant":[
         "San Antonio"
     ],
@@ -173,7 +185,7 @@
         }
     ],
     "wof:id":421201975,
-    "wof:lastmodified":1566650649,
+    "wof:lastmodified":1690866754,
     "wof:name":"Santo Ant\u00f3nio",
     "wof:parent_id":85677303,
     "wof:placetype":"locality",

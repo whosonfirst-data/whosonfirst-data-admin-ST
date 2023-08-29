@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":5.0,
+    "name:abk_x_preferred":[
+        "\u0421\u0430\u043d-\u0422\u043e\u043c\u0435\u0438 \u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0438\u0438"
+    ],
     "name:afr_x_preferred":[
         "S\u00e3o Tom\u00e9 en Pr\u00edncipe"
     ],
@@ -48,6 +51,12 @@
     "name:amh_x_variant":[
         "\u1233\u12a6 \u1276\u121c \u12a5\u1293 \u1355\u122a\u1295\u1232\u1354"
     ],
+    "name:ami_x_preferred":[
+        "Sao tome and principe"
+    ],
+    "name:anp_x_preferred":[
+        "\u0938\u093e\u0913 \u091f\u094b\u092e\u0947 \u0906\u0930\u094b \u092a\u094d\u0930\u093f\u0902\u0938\u093f\u092a\u0947"
+    ],
     "name:ara_x_preferred":[
         "\u0633\u0627\u0648 \u062a\u0648\u0645\u064a \u0648\u0628\u0631\u064a\u0646\u0633\u064a\u0628"
     ],
@@ -61,8 +70,14 @@
     "name:arg_x_variant":[
         "San Tom\u00e9 y Prenzipe"
     ],
+    "name:ary_x_preferred":[
+        "\u0635\u0627\u0648 \u0637\u0648\u0645\u064a \u0624\u067e\u0631\u0627\u0646\u0633\u064a\u067e\u064a"
+    ],
     "name:arz_x_preferred":[
         "\u0633\u0627\u0648\u062a\u0648\u0645\u0649 \u0648\u0628\u0631\u0646\u0633\u064a\u0628\u0649"
+    ],
+    "name:arz_x_variant":[
+        "\u0633\u0627\u0648 \u062a\u0648\u0645\u0649 \u0648 \u067e\u0631\u064a\u0646\u0633\u064a\u067e\u0649"
     ],
     "name:ast_x_preferred":[
         "S\u00e3o Tom\u00e9 y Pr\u00edncipe"
@@ -87,6 +102,12 @@
     "name:bam_x_preferred":[
         "Sawo Tome-ni-Prinicipe"
     ],
+    "name:ban_x_preferred":[
+        "Sao Tom\u00e9 miwah Principe"
+    ],
+    "name:bar_x_preferred":[
+        "S\u00e3o Tom\u00e9 u Pr\u00edncipe"
+    ],
     "name:bcl_x_preferred":[
         "Santo Tome asin Prinsipe"
     ],
@@ -104,6 +125,9 @@
     ],
     "name:bho_x_preferred":[
         "\u0938\u093e\u0913 \u091f\u094b\u092e \u0905\u0909\u0930\u0940 \u092a\u094d\u0930\u093f\u0902\u0938\u0947\u092a"
+    ],
+    "name:bis_x_preferred":[
+        "Sao Tome mo Prinsip"
     ],
     "name:bod_x_preferred":[
         "\u0f66\u0f0b\u0f60\u0f7c\u0f0b\u0f4f\u0f7c\u0f51\u0f0b\u0f58\u0f51\u0f0d \u0f51\u0f44\u0f0c\u0f0d \u0f54\u0f84\u0f62\u0f72\u0f53\u0f0b\u0f66\u0f72\u0f0b\u0f54\u0f7a\u0f0d"
@@ -220,6 +244,9 @@
     "name:epo_x_preferred":[
         "Sao-Tomeo kaj Principeo"
     ],
+    "name:epo_x_variant":[
+        "Santomeo kaj Principeo"
+    ],
     "name:est_x_preferred":[
         "Sao Tom\u00e9 ja Principe"
     ],
@@ -282,8 +309,14 @@
     "name:ful_x_preferred":[
         "Sawo Tome e Perensipe"
     ],
+    "name:ful_x_variant":[
+        "Sawo Tome"
+    ],
     "name:gag_x_preferred":[
         "San Tome hem Prinsipi"
+    ],
+    "name:gcr_x_preferred":[
+        "Sao Tom\u00e9-\u00e9-Prensip"
     ],
     "name:gla_x_preferred":[
         "S\u00e3o Tom\u00e9 agus Pr\u00edncipe"
@@ -304,6 +337,9 @@
     "name:glv_x_preferred":[
         "S\u00e3o Tom\u00e9 as Pr\u00edncipe"
     ],
+    "name:gpe_x_preferred":[
+        "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+    ],
     "name:grn_x_preferred":[
         "Santo Tome ha Pr\u00edncipe"
     ],
@@ -315,6 +351,9 @@
     ],
     "name:guj_x_variant":[
         "\u0ab8\u0abe\u0a93 \u0aa4\u0acb\u0aae \u0aaa\u0acd\u0ab0\u0abf\u0aa8\u0acd\u0ab8\u0abf\u0aaa\u0ac0"
+    ],
+    "name:gur_x_preferred":[
+        "S\u00e3oTom\u00e9 and Pr\u00edncipe"
     ],
     "name:hak_x_preferred":[
         "S\u00e3o Tom\u00e9 l\u00e2u Pr\u00edncipe"
@@ -506,6 +545,9 @@
         "San Tom\u0117 ir Prinsip\u0117",
         "S\u00e3o Tom\u00e9 ir Pr\u00edncipe"
     ],
+    "name:lld_x_preferred":[
+        "S\u00e3o Tom\u00e9 y Pr\u00edncipe"
+    ],
     "name:lmo_x_preferred":[
         "S\u00e3o Tom\u00e9 e Pr\u00edncipe"
     ],
@@ -536,8 +578,14 @@
     "name:mar_x_variant":[
         "\u0938\u093e\u0913 \u091f\u094b\u092e\u0947 \u0906\u0923\u093f \u092a\u094d\u0930\u093f\u0928\u094d\u0938\u093f\u092a"
     ],
+    "name:mdf_x_preferred":[
+        "\u0421\u0430\u043d-\u0422\u043e\u043c\u044d \u0434\u0438 \u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0438"
+    ],
     "name:mhr_x_preferred":[
         "\u0421\u0430\u043d-\u0422\u043e\u043c\u0435 \u0434\u0430 \u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0438"
+    ],
+    "name:min_x_preferred":[
+        "Sao Tome jo Principe"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u043e \u0422\u043e\u043c\u0435 \u0438 \u041f\u0440\u0438\u043d\u0447\u0438\u043f\u0435"
@@ -556,6 +604,12 @@
     ],
     "name:mlt_x_variant":[
         "S\u00e3o Tom\u00e9 u Pr\u00edncipe"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc1\uabe5\uabd1\uabe3 \uabc7\uabe3\uabc3\uabe6 \uabd1\uabc3\uabd7\uabe4 \uabc4\uabed\uabd4\uabe4\uabdf\uabc1\uabe4\uabc4\uabe6"
+    ],
+    "name:mon_x_preferred":[
+        "\u0421\u0430\u043d-\u0422\u043e\u043c\u0435 \u0431\u0430 \u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0438"
     ],
     "name:mri_x_preferred":[
         "Ao Tomi me Pirinihipi"
@@ -582,6 +636,9 @@
     "name:nan_x_preferred":[
         "S\u00e3o Tom\u00e9 kap Pr\u00edncipe"
     ],
+    "name:nau_x_preferred":[
+        "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+    ],
     "name:nde_x_preferred":[
         "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
     ],
@@ -592,7 +649,11 @@
         "\u0938\u093e\u0913 \u091f\u094b\u092e\u0947 \u0930 \u092a\u094d\u0930\u093f\u0928\u094d\u0938\u093f\u092a"
     ],
     "name:nep_x_variant":[
-        "\u0938\u093e\u0913 \u091f\u094b\u092e\u0947 \u0930 \u092a\u094d\u0930\u093f\u0928\u094d\u0938\u093f\u092a\u0947"
+        "\u0938\u093e\u0913 \u091f\u094b\u092e\u0947 \u0930 \u092a\u094d\u0930\u093f\u0928\u094d\u0938\u093f\u092a\u0947",
+        "\u0938\u093e\u0913 \u0924\u094b\u092e\u0947 \u0930 \u092a\u094d\u0930\u093f\u0928\u094d\u0938\u093f\u092a\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u093e\u0913 \u091f\u094b\u092e\u0947 \u0935 \u092a\u094d\u0930\u093f\u0928\u094d\u0938\u093f\u092a"
     ],
     "name:nld_x_colloquial":[
         "Sao Tome-en-Principe"
@@ -681,6 +742,9 @@
     "name:pus_x_preferred":[
         "\u0633\u0627\u0648\u062a\u0648\u0645\u06d0 \u0627\u0648 \u067e\u0631\u0646\u0633\u064a\u067e\u0647"
     ],
+    "name:pus_x_variant":[
+        "\u0633\u0627\u06cc\u0648\u062a\u0648\u0645\u0647 \u0627\u0648 \u067e\u0631\u0646\u0633\u06cc\u067e"
+    ],
     "name:que_x_preferred":[
         "Santu Tumiy Prinsipipas"
     ],
@@ -722,6 +786,9 @@
     "name:sgs_x_preferred":[
         "San Tuom\u0117 \u0117 Pr\u0117ns\u0117p\u0117"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u101e\u1030\u107c\u103a\u1087\u1010\u1030\u101d\u103a\u1087\u1019\u1031\u1038 \u101c\u1084\u1088 \u1015\u101b\u102d\u107c\u103a\u1087\u101e\u102e\u1087\u1015\u1031\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dcf\u0d95 \u0da7\u0ddc\u0db8\u0dda \u0dc3\u0dc4 \u0db4\u0dca\u200d\u0dbb\u0dd2\u0db1\u0dca\u0dc3\u0dd2\u0db4\u0dda"
     ],
@@ -736,8 +803,20 @@
     "name:slv_x_preferred":[
         "Sao Tome in Principe"
     ],
+    "name:slv_x_variant":[
+        "Sveti Toma\u017e in Princ"
+    ],
     "name:sme_x_preferred":[
         "S\u00e3o Tom\u00e9 ja Pr\u00edncipe"
+    ],
+    "name:smn_x_preferred":[
+        "S\u00e3o Tom\u00e9 j\u00e1 Principe"
+    ],
+    "name:smo_x_preferred":[
+        "S\u00e3o Tom\u00e9 ma Pr\u00edncipe"
+    ],
+    "name:sms_x_preferred":[
+        "S\u00e3o Tom\u00e9 da Principe"
     ],
     "name:sna_x_preferred":[
         "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
@@ -797,6 +876,9 @@
     "name:swe_x_variant":[
         "S\u00e3o Tom\u00e9 och Pr\u00edncipe"
     ],
+    "name:szy_x_preferred":[
+        "Sao tome and principe"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0bb5\u0bcd \u0ba4\u0bcb\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bcd\u0bb0\u0bbf\u0ba9\u0bcd\u0b9a\u0bbf\u0baa\u0bbf"
     ],
@@ -814,6 +896,9 @@
     ],
     "name:tet_x_preferred":[
         "Saun Tom\u00e9 no Pr\u00ednsipe"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0430\u043d-\u0422\u043e\u043c\u0435 \u0432\u0430 \u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0438"
     ],
     "name:tgl_x_preferred":[
         "S\u00e3o Tom\u00e9 at Pr\u00edncipe"
@@ -833,6 +918,9 @@
     ],
     "name:ton_x_preferred":[
         "Sao Tome mo Pilinisipe"
+    ],
+    "name:trv_x_preferred":[
+        "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
     ],
     "name:tuk_x_preferred":[
         "San-Tome we Prinsipi"
@@ -909,6 +997,9 @@
     ],
     "name:yor_x_variant":[
         "Sao Tome \u00e0ti Principe"
+    ],
+    "name:zea_x_preferred":[
+        "S\u00e3o Tom\u00e9 e Pr\u00edncipe"
     ],
     "name:zha_x_preferred":[
         "S\u00e3o Tom\u00e9 caeuq Pr\u00edncipe"
@@ -1135,7 +1226,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1617827414,
+    "wof:lastmodified":1690866753,
     "wof:name":"Sao Tome and Principe",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

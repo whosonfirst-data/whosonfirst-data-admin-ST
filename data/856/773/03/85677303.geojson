@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Pr\u00edncipe"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Pr\u00edncipe"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03c1\u03af\u03bd\u03c3\u03b9\u03c0\u03b5"
     ],
@@ -123,6 +126,9 @@
     ],
     "name:zho_x_preferred":[
         "\u666e\u6797\u897f\u6bd4\u5c9b"
+    ],
+    "name:zho_x_variant":[
+        "\u666e\u6797\u897f\u6bd4\u81ea\u6cbb\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"STP",
@@ -241,7 +247,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1614895910,
+    "wof:lastmodified":1690866753,
     "wof:name":"Pr\u00edncipe",
     "wof:parent_id":85632765,
     "wof:placetype":"region",
