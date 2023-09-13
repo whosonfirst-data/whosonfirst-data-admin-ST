@@ -1162,7 +1162,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"239",
     "statoids:ds":"ST",
     "statoids:fifa":"STP",
@@ -1230,7 +1230,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1694492059,
+    "wof:lastmodified":1694639513,
     "wof:name":"Sao Tome and Principe",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
