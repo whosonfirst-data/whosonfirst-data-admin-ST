@@ -1198,6 +1198,7 @@
         "hasc:id":"ST",
         "icao:code":"S9",
         "ioc:id":"STP",
+        "iso:code":"ST",
         "itu:id":"STP",
         "m49:code":"678",
         "marc:id":"sf",
@@ -1210,6 +1211,7 @@
         "wk:page":"S\u00e3o Tom\u00e9 and Pr\u00edncipe",
         "wmo:id":"TP"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ST",
     "wof:country_alpha3":"STP",
     "wof:geom_alt":[
@@ -1230,7 +1232,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1694639513,
+    "wof:lastmodified":1695881168,
     "wof:name":"Sao Tome and Principe",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
