@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0127,
-    "geom:area_square_m":156977665.039266,
+    "geom:area_square_m":156977107.350798,
     "geom:bbox":"7.329356,1.531195,7.462738,1.699774",
     "geom:latitude":1.620246,
     "geom:longitude":7.395916,
@@ -225,14 +225,16 @@
         "gn:id":2410878,
         "gp:id":2347233,
         "hasc:id":"ST.PR",
+        "iso:code":"ST-P",
         "iso:id":"ST-P",
         "qs_pg:id":1097076,
         "unlc:id":"ST-P",
         "wd:id":"Q2366966",
         "wk:page":"Pr\u00edncipe Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ST",
-    "wof:geomhash":"6cd32a13cb51fb1e6ca6c92f08c16555",
+    "wof:geomhash":"9442a13b3e393a0cb515903ab38fb58b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -247,7 +249,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690866753,
+    "wof:lastmodified":1695884535,
     "wof:name":"Pr\u00edncipe",
     "wof:parent_id":85632765,
     "wof:placetype":"region",

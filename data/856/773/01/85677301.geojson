@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071565,
-    "geom:area_square_m":884905587.675248,
+    "geom:area_square_m":884905932.479735,
     "geom:bbox":"6.461681,0.024115,6.760916,0.410793",
     "geom:latitude":0.235565,
     "geom:longitude":6.607635,
@@ -246,14 +246,16 @@
         "gn:id":2410764,
         "gp:id":2347234,
         "hasc:id":"ST.ST",
+        "iso:code":"ST-S",
         "iso:id":"ST-S",
         "qs_pg:id":319010,
         "unlc:id":"ST-S",
         "wd:id":"Q6710363",
         "wk:page":"S\u00e3o Tom\u00e9 Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ST",
-    "wof:geomhash":"7f99ab494cafd26501cd9f0259978a28",
+    "wof:geomhash":"37e5b3e575c70b357ad0764797d1f302",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -268,7 +270,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690866753,
+    "wof:lastmodified":1695884535,
     "wof:name":"S\u00e3o Tom\u00e9",
     "wof:parent_id":85632765,
     "wof:placetype":"region",
